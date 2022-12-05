@@ -161,6 +161,12 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstItem="40P-AS-IxS" firstAttribute="leading" secondItem="LYs-HN-ifb" secondAttribute="leading" constant="10" id="FVc-KF-GZl"/>
+                                    <constraint firstItem="RUh-Fe-F3n" firstAttribute="leading" secondItem="LYs-HN-ifb" secondAttribute="leading" constant="10" id="TU5-KD-g38"/>
+                                    <constraint firstItem="Uzu-q7-T4W" firstAttribute="leading" secondItem="LYs-HN-ifb" secondAttribute="leading" constant="10" id="WKJ-oB-fjQ"/>
+                                    <constraint firstItem="ntC-Rf-Yp6" firstAttribute="leading" secondItem="LYs-HN-ifb" secondAttribute="leading" constant="10" id="X4L-2v-a2L"/>
+                                </constraints>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="MOVIE DETAILS" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dLI-fV-Eep">
                                 <rect key="frame" x="0.0" y="59" width="414" height="30"/>

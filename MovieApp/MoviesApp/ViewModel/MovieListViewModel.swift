@@ -1,6 +1,7 @@
 
 
-port Foundation
+
+import Foundation
 class MovieViewModel {
     var listOfMovies:[Movie] = []
     private var apiService = ApiService()
