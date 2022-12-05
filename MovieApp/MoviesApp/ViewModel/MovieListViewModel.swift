@@ -1,10 +1,6 @@
-//
-//  MovieListViewModel.swift
-//  MoviesApp
-//
-//  Created by AMBIN03102 on 23/08/22.
-//
-import Foundation
+
+
+port Foundation
 class MovieViewModel {
     var listOfMovies:[Movie] = []
     private var apiService = ApiService()

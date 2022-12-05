@@ -1,9 +1,4 @@
-//
-//  posterViewModel.swift
-//  MoviesApp
-//
-//  Created by AMBIN03102 on 25/08/22.
-//
+
 
 import Foundation
 import UIKit

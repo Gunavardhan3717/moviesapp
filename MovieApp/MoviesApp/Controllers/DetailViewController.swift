@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  MoviesApp
 //
-//  Created by AMBIN03102 on 25/08/22.
+//  Created by AMBIN03079 on 25/08/22.
 //
 
 import UIKit

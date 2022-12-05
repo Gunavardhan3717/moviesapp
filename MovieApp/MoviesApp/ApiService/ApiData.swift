@@ -2,7 +2,7 @@
 //  ApiData.swift
 //  MoviesApp
 //
-//  Created by AMBIN03102 on 23/08/22.
+//  Created by AMBIN03079 on 23/08/22.
 // fe1495029b41e1d3dd485db73f672d77
 //https://api.themoviedb.org/3/movie/popular?api_key=4e0be2c22f7268edffde97481d49064a&language=en-US&page=1
 import Foundation
