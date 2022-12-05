@@ -10,7 +10,7 @@ import UIKit
 class DetailViewController: UIViewController {
 
     @IBOutlet weak var moviePoster: UIImageView!
-    @IBOutlet weak var overview: UILabel!
+    @IBOutlet weak var overview: UITextView!
     @IBOutlet weak var rating: UILabel!
     @IBOutlet weak var releaseDate: UILabel!
     @IBOutlet weak var movieTitle: UILabel!
