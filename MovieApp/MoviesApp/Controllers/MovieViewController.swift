@@ -44,7 +44,7 @@ extension MovieViewController: UITableViewDataSource {
     }
 }
 extension MovieViewController: UITableViewDelegate {
-    func tableView(_ tableView:UITableView, didDeselectRowAt indexPath: IndexPath) {
+    func tableView(_ tableView:UITableView, didSelectRowAt indexPath: IndexPath) {
         let detailView : DetailViewController =  self.storyboard?.instantiateViewController(withIdentifier: "DetailViewController") as! DetailViewController
         let movie = viewModel.cellForRowAt(indexPath: indexPath)
             detailView.movieData = movie
