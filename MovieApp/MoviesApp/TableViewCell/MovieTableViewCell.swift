@@ -70,5 +70,3 @@ class MovieTableViewCell : UITableViewCell{
         return fixDate
     }
 }
-
-

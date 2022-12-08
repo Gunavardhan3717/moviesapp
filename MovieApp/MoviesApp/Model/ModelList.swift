@@ -18,10 +18,14 @@ struct Movie: Decodable {
     let rate: Double?
     let posterImage: String?
     let overview: String?
+    let orglan:String?
+    //let adult:String?
     private enum CodingKeys: String, CodingKey {
         case title, overview
         case year = "release_date"
         case rate = "vote_average"
+       // case vc = "adult"
+        case orglan = "orginal_language"
         case posterImage = "poster_path"
     }
 }
